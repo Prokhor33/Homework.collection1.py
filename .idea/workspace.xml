@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Task.collection2">
+  <component name="RunManager" selected="Python.Task.collection3">
     <configuration name="Task.collection1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework.collection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691421882545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Collection2">
+      <created>1691422231642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691422231642</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Collection" />
     <MESSAGE value="Collection1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection1" />
+    <MESSAGE value="Collection2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection2" />
   </component>
 </project>
